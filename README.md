@@ -1,2 +1,2 @@
-## :lollipop: Museum-of-Candy
-* A Practice for the Bootstrap and HTML, CSS
+## :lollipop: Museum-of-Candy Project
+* Practice for Bootstrap and HTML, CSS
