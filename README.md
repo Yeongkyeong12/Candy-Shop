@@ -1,3 +1,3 @@
 ## :lollipop: Candy-Shop Project
-* Practice for Bootstrap and HTML, CSS
+* 사용 기술: Bootstrap and HTML, CSS
 * netlify link: https://candy-project.netlify.app/
